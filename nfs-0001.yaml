@@ -10,5 +10,5 @@ spec:
     - ReadWriteMany
   persistentVolumeReclaimPolicy: Recycle
   nfs:
-    server: 104.215.192.28
+    server: 10.0.0.4
     path: /exports/data-0001
